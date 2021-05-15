@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Gonzalo!
 
 <!--
 **gonzae/gonzae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I've been working as Software Developer fore more than ten years in the industry. I'm always looking to improve and open to learn new things. Looking for new challenges and stretching myself. Very detail oriented, responsible, reliable and keen to take ownership of assigned responsibilities.
+
+
+- 🔭 I’m currently working at [Wonder](https://askwonder.com).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzae&layout=compact)](https://github.com/gonzae/github-readme-stats)
+
+Contact me: [LinkedIn](https://www.linkedin.com/in/gonzae/)
+
