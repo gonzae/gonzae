@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've been working as Software Developer fore more than ten years in the industry. I'm always looking to improve and open to learn new things. Looking for new challenges and stretching myself. Very detail oriented, responsible, reliable and keen to take ownership of assigned responsibilities.
-
+I've been working as Software Developer fore more than ten years in the industry. I'm always looking to improve and open to learn new things. Looking for new challenges and stretching myself.
 
 - 🔭 I’m currently working at [Wonder](https://askwonder.com).
 
