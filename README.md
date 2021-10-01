@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I've been working as Software Developer fore more than ten years in the industry. I'm always looking to improve and open to learn new things. Looking for new challenges and stretching myself.
 
-- 🔭 I’m currently working at [Wonder](https://askwonder.com).
+- 🔭 I’m currently working at [Waldo](https://waldo.fyi).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzae&layout=compact)](https://github.com/gonzae/github-readme-stats)
 
